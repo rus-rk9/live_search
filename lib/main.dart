@@ -97,3 +97,8 @@ class App extends StatelessWidget {
     );
   }
 }
+
+//to-do
+//add field isLoading
+//logic in search (maybe index for field)
+//check debug flag in prints
