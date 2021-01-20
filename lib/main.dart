@@ -102,3 +102,4 @@ class App extends StatelessWidget {
 //add field isLoading
 //logic in search (maybe index for field)
 //check debug flag in prints
+//disable search edit while isLoading
